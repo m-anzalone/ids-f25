@@ -642,6 +642,9 @@ better generalization performance in many practical tasks.
 <!-- This section is for naive Bayes. -->
 {{< include _naive_bayes.qmd >}}
 
+<!-- This section is for support vector machine. -->
+{{< include _svm.qmd >}}
+
 <!-- This section is for nueral network. -->
 {{< include _nnet.qmd >}}
 
