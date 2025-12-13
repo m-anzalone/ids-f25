@@ -5,3 +5,6 @@
 
 <!-- This section is for nueral network with time series. -->
 {{< include _nntemp.qmd >}}
+
+<!-- This section is for convolutional nueral network. -->
+{{< include _cnn.qmd >}}
