@@ -5,5 +5,7 @@
 
 <!-- Stochastic neighbor embedding -->
 {{< include _sne.qmd >}}
+
+<!-- K-means clustering -->
 {{< include _KMeansClustering.qmd >}}
 
