@@ -10,26 +10,14 @@ book:
   subtitle: "STAT 3255/5255 @ UConn, Fall 2025"
   author:
     - name: "[Jun Yan](https://statcomp.org) and Students in Fall 2025"
-    - name: Matthew Anzalone
-    - name: Irene Chen
-    - name: Jingang Chen
-    - name: Enshuo Cao
-    - name: Alejandro Haerter
-    - name: Hannah Levine
-    - name: Sonia Lucey
-    - name: Jaden Mayer-Costa
-    - name: Lewis Milun
-    - name: Sahil Patel
-    - name: Jack Perkins
-    - name: Alexander Plotnikov
-    - name: Quinn Saltus
-    - name: Jacob Schlessel
-    - name: Owen Sgro
-    - name: Wilson Tang
-    - name: Justin Tran
-    - name: Abigail White
-    - name: Jessica Yoon
-    - name: Mark Zhang
+    - name: Michael Agostino, Matthew Anzalone, Roger Blake
+    - name: Enshuo Cao, Irene Chen, Jingang Chen
+    - name: Sophia Fazzina, Alejandro Haerter, Hannah Levine
+    - name: Sonia Lucey, Jaden Mayer-Costa, Lewis Milun
+    - name: Sahil Patel, Jack Perkins, Alexander Plotnikov
+    - name: Quinn Saltus, Jacob Schlessel, Owen Sgro
+    - name: Wilson Tang, Justin Tran, Abigail White
+    - name: Emma Wishneski, Jessica Yoon, Mark Zhang
   date: today
 
 #  sidebar:

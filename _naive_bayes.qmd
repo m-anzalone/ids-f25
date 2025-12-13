@@ -1,5 +1,7 @@
 ## Naive Bayes
 
+This section was prepared by Enshuo Cao.
+
 Naive Bayes classifier is a supervised learning algorithm based on **Bayes' 
 Theorem** for solving classification problems [@domingos1997optimal]. This 
 method determines which category a sample belongs to by calculating the 
